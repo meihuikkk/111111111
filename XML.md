@@ -40,9 +40,12 @@ XML tags are **case sensitive**
 Opening and closing tags must be written with the same case
 - ELements must be properly nested
 <br/>
+  
 **The opening and closing order**
+  
 <br/>
 For Example
+  
 ```
 <b><i>Bold and Italic<i><b>
 ```
